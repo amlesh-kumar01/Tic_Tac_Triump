@@ -64,7 +64,6 @@ option[value="two-players"] {
   padding: 5px;
   border: 3px solid rgb(162, 108, 182);
   border-radius: 10px;
-  box-shadow: top 50px #000000;
   margin-top: 5px;
   margin-bottom: 5px;
   background: linear-gradient(to bottom right, #6323e3, #000000);
